@@ -9,5 +9,5 @@ This program was produced as a project submission for Udacity's FSND Log Analysi
 
 ## Usage:
 1.  Clone or download **log-reports.py**
-2.  Set up a database called news which is similar in structure to that defined in **newsdata.sql**
+2.  Set up a database called news which is similar in structure to that defined in **newsdata.sql** as found in the above requirements
 3.  In a terminal window, run log-reports.py
